@@ -6,17 +6,17 @@
       "request": "launch",
       "name": "Client",
       "presentation": {
-        "group": "Mod Development - moshmoshuranium-template-1.21.1",
+        "group": "Mod Development - moshmoshuranium-1.21.1",
         "order": 0
       },
-      "projectName": "moshmoshuranium-template-1.21.1",
+      "projectName": "moshmoshuranium-1.21.1",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/clientRunProgramArgs.txt"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/clientRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/clientRunVmArgs.txt",
-        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-template-1.21.1/bin/main"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/clientRunVmArgs.txt",
+        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-1.21.1/bin/main"
       ],
       "cwd": "${workspaceFolder}/run",
       "env": {},
@@ -28,17 +28,17 @@
       "request": "launch",
       "name": "Data",
       "presentation": {
-        "group": "Mod Development - moshmoshuranium-template-1.21.1",
+        "group": "Mod Development - moshmoshuranium-1.21.1",
         "order": 1
       },
-      "projectName": "moshmoshuranium-template-1.21.1",
+      "projectName": "moshmoshuranium-1.21.1",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/dataRunProgramArgs.txt"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/dataRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/dataRunVmArgs.txt",
-        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-template-1.21.1/bin/main"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/dataRunVmArgs.txt",
+        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-1.21.1/bin/main"
       ],
       "cwd": "${workspaceFolder}/run",
       "env": {},
@@ -50,17 +50,17 @@
       "request": "launch",
       "name": "GameTestServer",
       "presentation": {
-        "group": "Mod Development - moshmoshuranium-template-1.21.1",
+        "group": "Mod Development - moshmoshuranium-1.21.1",
         "order": 2
       },
-      "projectName": "moshmoshuranium-template-1.21.1",
+      "projectName": "moshmoshuranium-1.21.1",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/gameTestServerRunProgramArgs.txt"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/gameTestServerRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/gameTestServerRunVmArgs.txt",
-        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-template-1.21.1/bin/main"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/gameTestServerRunVmArgs.txt",
+        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-1.21.1/bin/main"
       ],
       "cwd": "${workspaceFolder}/run",
       "env": {},
@@ -72,17 +72,17 @@
       "request": "launch",
       "name": "Server",
       "presentation": {
-        "group": "Mod Development - moshmoshuranium-template-1.21.1",
+        "group": "Mod Development - moshmoshuranium-1.21.1",
         "order": 3
       },
-      "projectName": "moshmoshuranium-template-1.21.1",
+      "projectName": "moshmoshuranium-1.21.1",
       "mainClass": "net.neoforged.devlaunch.Main",
       "args": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/serverRunProgramArgs.txt"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/serverRunProgramArgs.txt"
       ],
       "vmArgs": [
-        "@/home/slren/alice/moshmoshuranium-template-1.21.1/build/moddev/serverRunVmArgs.txt",
-        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-template-1.21.1/bin/main"
+        "@/home/slren/alice/moshmoshuranium-1.21.1/build/moddev/serverRunVmArgs.txt",
+        "-Dfml.modFolders\u003dmoshmoshuranium%%/home/slren/alice/moshmoshuranium-1.21.1/bin/main"
       ],
       "cwd": "${workspaceFolder}/run",
       "env": {},
