@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "tag": "minecraft:saplings"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculkwood_sapling",
+    "count": 1
+  }
+}

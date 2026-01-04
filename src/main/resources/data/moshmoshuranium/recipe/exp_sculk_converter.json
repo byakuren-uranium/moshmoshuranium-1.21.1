@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {"item": "minecraft:emerald"},
+    "Z": {"item": "minecraft:sculk"},
+    "C": {"item": "minecraft:deepslate"},
+    "V": {"item": "moshmoshuranium:sculk_ingot"}
+  },
+  "pattern": [
+    "VXV",
+    "C C",
+    "VZV"
+  ],
+  "result": {
+    "count": 1,
+    "id": "moshmoshuranium:exp_sculk_converter"
+  }
+}

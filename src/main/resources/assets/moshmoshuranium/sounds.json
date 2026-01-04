@@ -1,0 +1,46 @@
+{
+  "soul_seeker_use": {
+    "subtitle": "sounds.moshmoshuranium.soul_seeker_use",
+    "sounds": [
+      "moshmoshuranium:soul_seeker_use"
+    ]
+  },
+  "soul_infused_sculk_break": {
+    "subtitle": "sounds.moshmoshuranium.soul_infused_sculk_break",
+    "sounds": [
+      "moshmoshuranium:soul_infused_sculk_break"
+    ]
+  },
+  "soul_infused_sculk_step": {
+    "subtitle": "sounds.moshmoshuranium.soul_infused_sculk_step",
+    "sounds": [
+      "moshmoshuranium:soul_infused_sculk_step"
+    ]
+  },
+  "soul_infused_sculk_place": {
+    "subtitle": "sounds.moshmoshuranium.soul_infused_sculk_place",
+    "sounds": [
+      "moshmoshuranium:soul_infused_sculk_place"
+    ]
+  },
+  "soul_infused_sculk_hit": {
+    "subtitle": "sounds.moshmoshuranium.soul_infused_sculk_hit",
+    "sounds": [
+      "moshmoshuranium:soul_infused_sculk_hit"
+    ]
+  },
+  "soul_infused_sculk_fall": {
+    "subtitle": "sounds.moshmoshuranium.soul_infused_sculk_fall",
+    "sounds": [
+      "moshmoshuranium:soul_infused_sculk_fall"
+    ]
+  },
+  "siren_song": {
+    "sounds": [
+      {
+        "name": "moshmoshuranium:siren_song",
+        "stream": true
+      }
+    ]
+  }
+}

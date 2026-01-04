@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "moshmoshuranium:block/sculkwood_planks",
+    "side": "moshmoshuranium:block/sculkwood_planks",
+    "top": "moshmoshuranium:block/sculkwood_planks"
+  }
+}

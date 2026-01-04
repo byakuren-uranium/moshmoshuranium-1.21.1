@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "moshmoshuranium:block/sculk_torchflower_crop0"
+    },
+    "age=1": {
+      "model": "moshmoshuranium:block/sculk_torchflower_crop1"
+    }
+  }
+}

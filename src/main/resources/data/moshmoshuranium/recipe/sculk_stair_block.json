@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "Z": {"item": "moshmoshuranium:sculkwood_planks"}
+  },
+  "pattern": [
+    "Z  ",
+    "ZZ ",
+    "ZZZ"
+  ],
+  "result": {
+    "count": 3,
+    "id": "moshmoshuranium:sculk_stair_block"
+  }
+}

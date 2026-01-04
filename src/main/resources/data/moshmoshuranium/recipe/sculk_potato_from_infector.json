@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:potato"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_potato",
+    "count": 1
+  }
+}

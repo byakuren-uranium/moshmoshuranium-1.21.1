@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:converter",
+  "ingredient":{
+    "item": "minecraft:sculk"
+  },
+  "result": {
+    "id": "minecraft:experience_bottle",
+    "count": 2
+  }
+}

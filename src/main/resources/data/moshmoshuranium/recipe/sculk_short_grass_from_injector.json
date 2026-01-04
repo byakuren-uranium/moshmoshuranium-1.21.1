@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:short_grass"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_short_grass",
+    "count": 1
+  }
+}

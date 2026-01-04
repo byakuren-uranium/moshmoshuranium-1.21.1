@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "moshmoshuranium:block/sculk_pressure_plate_block"
+    },
+    "powered=true": {
+      "model": "moshmoshuranium:block/sculk_pressure_plate_block_down"
+    }
+  }
+}

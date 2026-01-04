@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:beetroot_seeds"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_beetroot_seeds",
+    "count": 1
+  }
+}

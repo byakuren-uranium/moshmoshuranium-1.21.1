@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:torchflower"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_torchflower",
+    "count": 1
+  }
+}

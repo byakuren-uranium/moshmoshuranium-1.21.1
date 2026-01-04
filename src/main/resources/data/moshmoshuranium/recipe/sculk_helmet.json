@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Z": {"item": "moshmoshuranium:sculk_ingot"},
+    "C": {"item": "moshmoshuranium:reinforce_fragment"}
+  },
+  "pattern": [
+    "ZZZ",
+    "ZCZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "moshmoshuranium:sculk_helmet"
+  }
+}

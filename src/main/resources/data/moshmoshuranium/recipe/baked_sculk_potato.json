@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.55,
+  "ingredient": {
+    "item": "moshmoshuranium:sculk_potato"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_baked_potato"
+  }
+}

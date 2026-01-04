@@ -1,0 +1,9 @@
+{
+  "type": "moshmoshuranium:converter",
+  "ingredient":{
+"item": "moshmoshuranium:soul_infused_sculk_block"
+  },
+  "result": {
+    "id": "moshmoshuranium:tormented_soul"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "moshmoshuranium:block/sculkwood_planks"
+  }
+}

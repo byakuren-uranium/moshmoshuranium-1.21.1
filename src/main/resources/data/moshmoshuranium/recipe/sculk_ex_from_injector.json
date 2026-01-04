@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:soul_sand"
+  },
+  "result": {
+    "id": "moshmoshuranium:soul_infused_sculk_block",
+    "count": 1
+  }
+}

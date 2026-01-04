@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:baked_potato"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_baked_potato",
+    "count": 1
+  }
+}

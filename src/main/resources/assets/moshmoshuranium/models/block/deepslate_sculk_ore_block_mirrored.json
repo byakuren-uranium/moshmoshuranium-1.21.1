@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "end": "moshmoshuranium:block/deepslate_sculk_ore_top_block",
+    "side": "moshmoshuranium:block/deepslate_sculk_ore_block"
+  }
+}

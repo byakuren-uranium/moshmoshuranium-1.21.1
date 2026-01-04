@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "moshmoshuranium:koishi_block",
+    "moshmoshuranium:sculk_ore_block",
+    "moshmoshuranium:deepslate_sculk_ore_block",
+    "moshmoshuranium:sculk_infector",
+    "moshmoshuranium:sculk_injector",
+    "moshmoshuranium:exp_sculk_converter"
+  ]
+}

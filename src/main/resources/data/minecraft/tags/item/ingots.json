@@ -1,0 +1,9 @@
+{
+  "values": [
+    "moshmoshuranium:sculk_ingot",
+    {
+      "id": "#forge:ingots",
+      "required": false
+    }
+  ]
+}

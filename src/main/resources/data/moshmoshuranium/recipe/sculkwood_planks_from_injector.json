@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculkwood_planks",
+    "count": 1
+  }
+}

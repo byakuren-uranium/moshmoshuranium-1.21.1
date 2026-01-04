@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "moshmoshuranium:block/sculk_slab_block"
+    },
+    "type=double": {
+      "model": "moshmoshuranium:block/sculkwood_planks"
+    },
+    "type=top": {
+      "model": "moshmoshuranium:block/sculk_slab_block_top"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:carrot"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_carrot",
+    "count": 1
+  }
+}

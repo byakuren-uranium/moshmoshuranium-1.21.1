@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Z": {"item": "moshmoshuranium:sculkwood_planks"}
+  },
+  "pattern": [
+    "ZZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "moshmoshuranium:sculk_pressure_plate_block"
+  }
+}

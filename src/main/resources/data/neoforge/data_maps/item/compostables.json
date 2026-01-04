@@ -1,0 +1,10 @@
+{
+  "values": {
+    "moshmoshuranium:sculk_carrot": {
+      "chance": 0.5
+    },
+    "moshmoshuranium:sculk_carrot_seeds": {
+      "chance": 0.35
+    }
+  }
+}

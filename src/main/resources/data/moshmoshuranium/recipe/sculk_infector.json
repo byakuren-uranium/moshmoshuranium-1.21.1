@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {"item": "minecraft:sculk_catalyst"},
+    "Z": {"item": "minecraft:iron_ingot"},
+    "C": {"item": "minecraft:sticky_piston"},
+    "V": {"item": "moshmoshuranium:reinforce_fragment"}
+  },
+  "pattern": [
+    "VZV",
+    "ZCZ",
+    "VXV"
+  ],
+  "result": {
+    "id": "moshmoshuranium:sculk_infector"
+  }
+}

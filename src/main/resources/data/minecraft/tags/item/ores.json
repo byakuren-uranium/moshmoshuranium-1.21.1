@@ -1,0 +1,9 @@
+{
+  "values": [
+    "moshmoshuranium:sculk_ore",
+    {
+      "id": "#forge:ores",
+      "required": false
+    }
+  ]
+}

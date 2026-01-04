@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "moshmoshuranium:block/sculkwood_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "moshmoshuranium:block/sculkwood_wood"
+    },
+    "axis=z": {
+      "model": "moshmoshuranium:block/sculkwood_wood_horizontal",
+      "x": 90
+    }
+  }
+}

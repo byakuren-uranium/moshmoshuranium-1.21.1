@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1,
+  "group": "ores",
+  "ingredient": {
+    "item": "moshmoshuranium:sculk_ore"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_ingot"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {"item": "minecraft:gold_ingot"},
+    "Z": {"item": "minecraft:iron_ingot"},
+    "C": {"item": "minecraft:deepslate"},
+    "V": {"item": "minecraft:diamond"}
+  },
+  "pattern": [
+    "ZVZ",
+    "XCX",
+    "ZVZ"
+  ],
+  "result": {
+    "count": 2,
+    "id": "moshmoshuranium:reinforce_fragment"
+  }
+}

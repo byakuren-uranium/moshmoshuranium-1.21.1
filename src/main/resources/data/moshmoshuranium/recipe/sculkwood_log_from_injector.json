@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "tag": "minecraft:logs"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculkwood_log",
+    "count": 1
+  }
+}

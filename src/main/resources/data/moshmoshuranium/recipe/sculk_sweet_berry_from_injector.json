@@ -1,0 +1,10 @@
+{
+  "type": "moshmoshuranium:sculk_injector",
+  "ingredient":{
+    "item": "minecraft:sweet_berries"
+  },
+  "result": {
+    "id": "moshmoshuranium:sculk_sweet_berry",
+    "count": 1
+  }
+}

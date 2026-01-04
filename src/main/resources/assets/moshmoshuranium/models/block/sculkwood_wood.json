@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "moshmoshuranium:block/sculkwood_log",
+    "side": "moshmoshuranium:block/sculkwood_log"
+  }
+}
